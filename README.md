@@ -47,4 +47,27 @@ SOFTWARE REQUIREMENTS:
 ## Screenshots
 
 - Program images:
+
 ![image](https://user-images.githubusercontent.com/84370672/205817119-928dbf26-c801-43be-a7a2-7c0a98b9114a.png)
+
+![image](https://user-images.githubusercontent.com/84370672/205817242-4d65f219-7a3d-48cb-bc65-7277ea865d67.png)
+
+![image](https://user-images.githubusercontent.com/84370672/205817288-29e44f40-3270-4cf1-b14f-b82ecfd63e3a.png)
+
+![image](https://user-images.githubusercontent.com/84370672/205817319-433fdd8a-b845-4902-a864-e27aae39ea77.png)
+
+![image](https://user-images.githubusercontent.com/84370672/205817344-2ee47157-11aa-4678-9888-378fe670a62c.png)
+
+
+- Demonstration screenshot:
+
+![image](https://user-images.githubusercontent.com/84370672/205817460-b7918305-9e5f-450f-b849-39ae157e51ae.png)
+
+![image](https://user-images.githubusercontent.com/84370672/205817486-163ae693-bc9f-4023-b4ad-74af88a23d6b.png)
+
+
+![image](https://user-images.githubusercontent.com/84370672/205817508-0ebb4556-5c67-4db2-8296-2056305b73ac.png)
+
+
+
+
